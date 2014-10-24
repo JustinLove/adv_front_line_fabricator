@@ -5,9 +5,9 @@
   "date": "2014/10/24",
   "description": "Makes the advanced combat fabricator ea commander in all but uber cannon and death weapon.",
   "display_name": "Adv Front Line Fabricator",
-  "forum": null,
+  "forum": "https://forums.uberent.com/threads/rel-server-advanced-front-line-fabricator.65502/",
   "identifier": "com.wondible.pa.adv_front_line_fabricator",
   "signature": "not yet implemented",
-  "version": "0.1.0"
+  "version": "1.0.0"
 }
 
